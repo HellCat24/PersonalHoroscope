@@ -1,201 +1,174 @@
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
 
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html id="iubenda_policy" class="iubenda_fixed_policy">
+<head>
 
-   1. Definitions.
+  <title>Персональный гороскоп – Правила обеспечения конфиденциальности персональных данных</title>
+	
+	<meta content="Приложение осуществляет сбор определенных Персональных данных Пользователей." name="description" />
+	<meta content="privacy policy" name="keywords" />
 
-      "License" shall mean the terms and conditions for use, reproduction,
-      and distribution as defined by Sections 1 through 9 of this document.
+  <meta http-equiv="Content-Language" content="ru" />
+  <meta name="robots" content="noindex, follow">
 
-      "Licensor" shall mean the copyright owner or entity authorized by
-      the copyright owner that is granting the License.
+            
+<div class="iub_header">
 
-      "Legal Entity" shall mean the union of the acting entity and all
-      other entities that control, are controlled by, or are under common
-      control with that entity. For the purposes of this definition,
-      "control" means (i) the power, direct or indirect, to cause the
-      direction or management of such entity, whether by contract or
-      otherwise, or (ii) ownership of fifty percent (50%) or more of the
-      outstanding shares, or (iii) beneficial ownership of such entity.
+    <h1><strong>Персональный гороскоп</strong> – Правила обеспечения конфиденциальности персональных данных</h1>
 
-      "You" (or "Your") shall mean an individual or Legal Entity
-      exercising permissions granted by this License.
+      <p>Приложение осуществляет сбор определенных Персональных данных Пользователей.</p>
+</div> <!-- /header -->
 
-      "Source" form shall mean the preferred form for making modifications,
-      including but not limited to software source code, documentation
-      source, and configuration files.
+		   	
+	              </div> <!-- /simple_pp -->
+	
+	              <div class="one_line_col">
+	
+	                <h2 style="text-align: center; font-variant:small-caps;">Полный текст политики</h2>
+	
+	              </div> <!-- /one_line_col -->
+         
+<div class="one_line_col">
 
-      "Object" form shall mean any form resulting from mechanical
-      transformation or translation of a Source form, including but
-      not limited to compiled object code, generated documentation,
-      and conversions to other media types.
+  <h2>Контролер и Владелец данных</h2>
 
-      "Work" shall mean the work of authorship, whether in Source or
-      Object form, made available under the License, as indicated by a
-      copyright notice that is included in or attached to the work
-      (an example is provided in the Appendix below).
 
-      "Derivative Works" shall mean any work, whether in Source or Object
-      form, that is based on (or derived from) the Work and for which the
-      editorial revisions, annotations, elaborations, or other modifications
-      represent, as a whole, an original work of authorship. For the purposes
-      of this License, Derivative Works shall not include works that remain
-      separable from, or merely link (or bind by name) to the interfaces of,
-      the Work and Derivative Works thereof.
+</div> <!-- /one_line_col -->
 
-      "Contribution" shall mean any work of authorship, including
-      the original version of the Work and any modifications or additions
-      to that Work or Derivative Works thereof, that is intentionally
-      submitted to Licensor for inclusion in the Work by the copyright owner
-      or by an individual or Legal Entity authorized to submit on behalf of
-      the copyright owner. For the purposes of this definition, "submitted"
-      means any form of electronic, verbal, or written communication sent
-      to the Licensor or its representatives, including but not limited to
-      communication on electronic mailing lists, source code control systems,
-      and issue tracking systems that are managed by, or on behalf of, the
-      Licensor for the purpose of discussing and improving the Work, but
-      excluding communication that is conspicuously marked or otherwise
-      designated in writing by the copyright owner as "Not a Contribution."
 
-      "Contributor" shall mean Licensor and any individual or Legal Entity
-      on behalf of whom a Contribution has been received by Licensor and
-      subsequently incorporated within the Work.
+<div class="one_line_col">
 
-   2. Grant of Copyright License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      copyright license to reproduce, prepare Derivative Works of,
-      publicly display, publicly perform, sublicense, and distribute the
-      Work and such Derivative Works in Source or Object form.
+  <h2>Категории собираемых Данных</h2>
 
-   3. Grant of Patent License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      (except as stated in this section) patent license to make, have made,
-      use, offer to sell, sell, import, and otherwise transfer the Work,
-      where such license applies only to those patent claims licensable
-      by such Contributor that are necessarily infringed by their
-      Contribution(s) alone or by combination of their Contribution(s)
-      with the Work to which such Contribution(s) was submitted. If You
-      institute patent litigation against any entity (including a
-      cross-claim or counterclaim in a lawsuit) alleging that the Work
-      or a Contribution incorporated within the Work constitutes direct
-      or contributory patent infringement, then any patent licenses
-      granted to You under this License for that Work shall terminate
-      as of the date such litigation is filed.
+	  <p>
+	  	Категории Персональных данных, сбор которых осуществляет приложение, включают данные предостовляемые вами для получения награды: Вконтакте Id, email, знак зодиака.
+	  </p>
+ 
 
-   4. Redistribution. You may reproduce and distribute copies of the
-      Work or Derivative Works thereof in any medium, with or without
-      modifications, and in Source or Object form, provided that You
-      meet the following conditions:
+  <p>Прочие собираемые Персональные данные могут описываться в других разделах настоящих правил обеспечения конфиденциальности персональных данных или в специальном пояснительном тексте в контексте сбора Данных.<br />Персональные данные могут предоставляться Пользователем самостоятельно или их сбор может автоматически осуществлять приложение при его использовании.<br />Если не указано иное, приложение или владельцы сторонних сервисов, которые задействует приложение, используют файлы «cookie» (или другие средства отслеживания) для идентификации Пользователей и запоминания установленных ими глобальных параметров настройки исключительно в целях предоставления услуги, требующейся Пользователю.</p>
+  <p>Пользователи несут ответственность за Персональные данные третьих лиц, которые они получают, публикуют или предоставляют другим лицам, используя приложение, и подтверждают, что у них имеется согласие третьего лица на предоставление Данных Владельцу.</p>
 
-      (a) You must give any other recipients of the Work or
-          Derivative Works a copy of this License; and
+</div> <!-- /one_line_col -->
 
-      (b) You must cause any modified files to carry prominent notices
-          stating that You changed the files; and
 
-      (c) You must retain, in the Source form of any Derivative Works
-          that You distribute, all copyright, patent, trademark, and
-          attribution notices from the Source form of the Work,
-          excluding those notices that do not pertain to any part of
-          the Derivative Works; and
+<div class="one_line_col">
 
-      (d) If the Work includes a "NOTICE" text file as part of its
-          distribution, then any Derivative Works that You distribute must
-          include a readable copy of the attribution notices contained
-          within such NOTICE file, excluding those notices that do not
-          pertain to any part of the Derivative Works, in at least one
-          of the following places: within a NOTICE text file distributed
-          as part of the Derivative Works; within the Source form or
-          documentation, if provided along with the Derivative Works; or,
-          within a display generated by the Derivative Works, if and
-          wherever such third-party notices normally appear. The contents
-          of the NOTICE file are for informational purposes only and
-          do not modify the License. You may add Your own attribution
-          notices within Derivative Works that You distribute, alongside
-          or as an addendum to the NOTICE text from the Work, provided
-          that such additional attribution notices cannot be construed
-          as modifying the License.
+  <h2>Метод и место обработки Данных</h2>
 
-      You may add Your own copyright statement to Your modifications and
-      may provide additional or different license terms and conditions
-      for use, reproduction, or distribution of Your modifications, or
-      for any such Derivative Works as a whole, provided Your use,
-      reproduction, and distribution of the Work otherwise complies with
-      the conditions stated in this License.
+  <h3>Метод обработки</h3>
 
-   5. Submission of Contributions. Unless You explicitly state otherwise,
-      any Contribution intentionally submitted for inclusion in the Work
-      by You to the Licensor shall be under the terms and conditions of
-      this License, without any additional terms or conditions.
-      Notwithstanding the above, nothing herein shall supersede or modify
-      the terms of any separate license agreement you may have executed
-      with Licensor regarding such Contributions.
+  <p>Обработка Данных осуществляется с использованием компьютеров и (или) средств с поддержкой информационных технологий (ИТ) в соответствии с организационными процедурами и методами, строго связанными с указанными целями. В некоторых случаях Данные могут быть доступны, помимо Контролера данных, определенным категориям ответственных лиц, связанных с обеспечением функционирования сайта (администрация, отдел продаж, отдел маркетинга, юридический отдел, системные администраторы), или сторонним организациям (таким как сторонние поставщики технических услуг, почтовые организации, поставщики услуг хостинга, компании-поставщики информационных технологий, службы связи), которым Владелец поручает, при необходимости, выполнять функции Обработчика данных. Обновляемый перечень указанных лиц можно в любое время запросить у Контролера данных.</p>
 
-   6. Trademarks. This License does not grant permission to use the trade
-      names, trademarks, service marks, or product names of the Licensor,
-      except as required for reasonable and customary use in describing the
-      origin of the Work and reproducing the content of the NOTICE file.
+  <h3>Место</h3>
 
-   7. Disclaimer of Warranty. Unless required by applicable law or
-      agreed to in writing, Licensor provides the Work (and each
-      Contributor provides its Contributions) on an "AS IS" BASIS,
-      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
-      implied, including, without limitation, any warranties or conditions
-      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
-      PARTICULAR PURPOSE. You are solely responsible for determining the
-      appropriateness of using or redistributing the Work and assume any
-      risks associated with Your exercise of permissions under this License.
+  <p>Данные обрабатываются в операционных офисах Контролера данных и в любых иных местах, где находятся стороны, занимающиеся их обработкой. За дополнительной информацией следует обращаться к Контролеру данных.</p>
 
-   8. Limitation of Liability. In no event and under no legal theory,
-      whether in tort (including negligence), contract, or otherwise,
-      unless required by applicable law (such as deliberate and grossly
-      negligent acts) or agreed to in writing, shall any Contributor be
-      liable to You for damages, including any direct, indirect, special,
-      incidental, or consequential damages of any character arising as a
-      result of this License or out of the use or inability to use the
-      Work (including but not limited to damages for loss of goodwill,
-      work stoppage, computer failure or malfunction, or any and all
-      other commercial damages or losses), even if such Contributor
-      has been advised of the possibility of such damages.
+  <h3>Срок хранения</h3>
 
-   9. Accepting Warranty or Additional Liability. While redistributing
-      the Work or Derivative Works thereof, You may choose to offer,
-      and charge a fee for, acceptance of support, warranty, indemnity,
-      or other liability obligations and/or rights consistent with this
-      License. However, in accepting such obligations, You may act only
-      on Your own behalf and on Your sole responsibility, not on behalf
-      of any other Contributor, and only if You agree to indemnify,
-      defend, and hold each Contributor harmless for any liability
-      incurred by, or claims asserted against, such Contributor by reason
-      of your accepting any such warranty or additional liability.
+  <p>Данные хранятся в течение времени, необходимого для предоставления услуги, запрашиваемой Пользователем, или определяемого целями, описанными в настоящем документе, при этом Пользователь может в любой момент обратиться к Контролеру данных с просьбой приостановить использование данных или удалить их.</p>
 
-   END OF TERMS AND CONDITIONS
+</div> <!-- /one_line_col -->
 
-   APPENDIX: How to apply the Apache License to your work.
 
-      To apply the Apache License to your work, attach the following
-      boilerplate notice, with the fields enclosed by brackets "{}"
-      replaced with your own identifying information. (Don't include
-      the brackets!)  The text should be enclosed in the appropriate
-      comment syntax for the file format. We also recommend that a
-      file or class name and description of purpose be included on the
-      same "printed page" as the copyright notice for easier
-      identification within third-party archives.
 
-   Copyright {yyyy} {name of copyright owner}
+  <div class="one_line_col">
 
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
+    <h2>Использование собранных Данных</h2>
 
-       http://www.apache.org/licenses/LICENSE-2.0
+      <p>
+      Сбор Данных, касающихся Пользователя, осуществляется для того, чтобы дать возможность Владельцу предоставлять услуги предоставления гороскопа Пользователю.
+      </p>
+     
 
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
+    <p>Персональные данные, используемые для каждой цели, описываются в соответствующих разделах настоящего документа.</p>
+
+<div class="one_line_col">
+
+  <h2>Дополнительная информация о сборе и обработке Данных</h2>
+
+  <h3>Обращение в суд</h3>
+  <p>
+    Персональные данные Пользователя могут быть использованы в юридических целях Контролером данных в суде или на этапах, ведущих к возможному обращению в суд в связи с тем, что приложение или сопутствующие услуги использовались ненадлежащим образом.<br />Пользователь осведомлен о том, что Контролер данных может быть вынужден сообщить персональные данные по требованию органов государственной власти.
+  </p>
+
+  <h3>Дополнительная информация о Персональных данных Пользователя</h3>
+  <p>
+    Помимо информации, содержащейся в настоящих правилах обеспечения конфиденциальности персональных данных, приложение может предоставлять Пользователю по запросу дополнительную и контекстуальную информацию, касающуюся конкретных услуг и сервисов или сбора и обработки Персональных данных.
+  </p>
+
+  <h3>Системные журналы и техническое обслуживание</h3>
+  <p>
+    В целях обеспечения работы системы и ее технического обслуживания приложение и любые сторонние сервисы могут вести файлы, в которых регистрируется взаимодействие приложение с Пользователями (системные журналы), или использовать с этой целью другие Персональные данные (в частности, Device ID ).
+  </p>
+
+  <h3>Информация, отсутствующая в настоящих правилах</h3>
+  <p>
+    Дополнительные сведения, касающиеся сбора или обработки Персональных данных, можно в любое время запросить у Контролера данных. Смотрите контактные сведения, указанные в начале настоящего документа.
+  </p>
+
+  <h3>Права Пользователей</h3>
+  <p>
+    Пользователи вправе в любое время узнать, были ли сохранены их Персональные данные, и могут обращаться к Контролеру данных, чтобы узнать их содержание и происхождение, проверить их достоверность, или попросить их дополнить, аннулировать, обновить или исправить либо преобразовать в формат, обеспечивающий анонимность, или блокировать любые данные, хранящиеся в нарушение закона, а также выступить против их обработки по всем без исключения законным основаниям. Соответствующие запросы следует направлять Контролеру данных по адресу, указанному выше в контактных сведениях. 
+  </p>
+	 
+  <h3>Внесение изменений в настоящие правила обеспечения конфиденциальности персональных данных</h3>
+  <p>
+    Контролер данных оговаривает право в любое время вносить изменения в настоящие правила обеспечения конфиденциальности персональных данных, разместив на этой странице уведомление для Пользователей. Настоятельно рекомендуется часто проверять эту страницу и дату внесения последних изменений, указанную в нижней части страницы. В случае несогласия с любыми изменениями, внесенными в Правила, Пользователь должен перестать использовать приложение и может потребовать, чтобы Контролер данных удалил его Персональные данные. Если не указано иное, действующие на тот момент правила обеспечения конфиденциальности персональных данных распространяются на все Персональные данные Пользователей, которыми располагает Контролер данных.
+  </p>
+
+  <h3>Информация о настоящих правилах обеспечения конфиденциальности персональных данных</h3>
+  <p>
+    Контролер данных несет ответственность за настоящие правила обеспечения конфиденциальности персональных данных.
+  </p>
+
+</div> <!-- /one_line_col -->
+
+<div class="one_line_col">
+
+  <div class="box_primary box_10 definitions expand">
+
+    <h3 class="expand-click w_icon_24 icon_ribbon">
+    	Определения терминов и ссылки на правовые нормы
+    </h3>
+
+    <div class="expand-content">
+
+      <h4>Персональные данные (или Данные)</h4>
+      <p>Любая информация о физическом или юридическом лице, учреждении или ассоциации, которая определяется или может быть определена, исходя из любой другой информации, включая персональный идентификационный номер.</p>
+
+      <h4>Данные об использовании сетевых ресурсов</h4>
+      <p>Информация, которую автоматически собирают приложение или сторонние сервисы, которые использует приложение), в частности: IP-адреса или доменные имена компьютеров Пользователей, которые используют приложение, URI-адреса (универсальные коды ресурсов), время обращения с запросом, способ обращения с запросом к серверу, размер файла, полученного в ответ, числовой код, указывающий на статус ответа сервера (удачный исход, ошибка и т.д.), страна происхождения, характеристики веб-обозревателя (браузера) и операционной системы, используемых Пользователем, различные сведения о времени каждого посещения (например, время, проведенное на каждой странице Приложения), и сведения о перемещениях внутри Приложения с отдельным указанием очередности посещения страниц, а также другие параметры операционной системы устройства и (или) вычислительной и информационной среде Пользователя.</p>
+
+      <h4>Пользователь</h4>
+      <p>Физическое лицо, использующее приложение, которое должно совпадать с Субъектом данных или быть уполномочено последним и к которому относятся Персональные данные.</p>
+
+      <h4>Субъект данных</h4>
+      <p>Юридическое или физическое лицо, которого касаются Персональные данные.</p>
+
+      <h4>Обработчик данных (или Администратор данных)</h4>
+      <p>Физическое или юридическое лицо, государственный административный орган или любые иные органы, ассоциации или организации, уполномоченные Контролером данных осуществлять обработку Персональных данных в соответствии с настоящими правилами обеспечения конфиденциальности персональных данных.</p>
+
+      <h4>Контролер (или Владелец) данных</h4>
+      <p>Физическое или юридическое лицо, государственный административный орган или любые иные органы, ассоциации или организации с правом (также совместно с другим Контролером данных) принимать решения относительно целей и методов сбора Персональных данных и используемых средств (в том числе мер безопасности), которые касаются того, как функционирует и используется приложение. Если не указано иное, Контролером данных является Владелец, т.е. лицо которому принадлежит приложение.</p>
+
+      <h4>Приложение</h4>
+      <p>Аппаратное или программное средство, с помощью которого осуществляется сбор Персональных данных Пользователей.</p>
+
+    </div> <!-- /expand-content -->
+
+  </div> <!-- /box_primary -->
+
+</div> <!-- /one_line_col -->
+
+
+           
+
+          <div class="iub_footer">
+
+  <p>
+    Последнее обновление:  8 мая 2017
+  </p>
+
+	 
+</body>
+</html>
